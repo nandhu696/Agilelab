@@ -14,4 +14,4 @@ n = int(input("Enter a number: "))
 if n < 0:
     print("Factorial is not defined for negative numbers.")
 else:
-    print("Factorial of", n, "is", factorial(n))
+    print("Factorial of a number n ", n, "is this", factorial(n))
